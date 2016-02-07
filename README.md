@@ -6,6 +6,7 @@ To run the application:
       mvn clean package embedded-glassfish:run
       
 And open in your browser:
+
       http://localhost:8888/app/hello
       
 
