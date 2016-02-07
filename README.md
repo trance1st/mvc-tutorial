@@ -3,6 +3,11 @@ This is an 'hello world' application using MVC 1.0 (https://java.net/projects/mv
 
 To run the application: 
 
-      mvn package embedded-glassfish:run
+      mvn clean package embedded-glassfish:run
+      
+And open in your browser:
+      http://localhost:8888/app/hello
+      
+
 
 
